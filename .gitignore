@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+
+# Big files: models, data, videos, outputs (rebuilt by commands)
+models/
+data/
+runs/
+results/monitor/
+*.pt
+*.onnx
+*_openvino_model/
+
+# Private
+notes/
+.env
