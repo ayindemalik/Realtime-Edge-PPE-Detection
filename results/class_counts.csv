@@ -1,0 +1,12 @@
+,train (1142 img),val (143 img),test (141 img)
+helmet,1357,201,192
+gloves,1162,136,163
+vest,1283,171,178
+boots,1251,151,211
+goggles,427,47,52
+none,654,81,65
+Person,1790,239,236
+no_helmet,400,45,40
+no_goggle,337,41,33
+no_gloves,442,56,58
+no_boots,88,4,23
