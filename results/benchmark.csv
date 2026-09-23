@@ -1,0 +1,5 @@
+model,size_mb,network_ms,p50_ms,p95_ms,fps,mAP50,mAP50_95
+ppe_yolo11n.pt,5.5,100.5,116.9,179.2,8.1,0.536,0.269
+ppe_yolo11n.onnx,10.6,90.7,108.3,133.2,8.9,0.541,0.268
+ppe_yolo11n_openvino_model,10.8,27.9,42.8,535.1,8.1,0.541,0.268
+ppe_yolo11n_int8_openvino_model,3.4,81.1,94.1,119.6,10.9,0.539,0.267
